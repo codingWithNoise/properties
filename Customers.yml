@@ -3,5 +3,5 @@ spring:
     hibernate:
       ddl-auto: none
   datasource:
-    password: '{cipher}88e429a5731d62e8c2516343808cabbed5e0ae5a6817eb851aa2664e68b94fb9e463b7d9f7ba83efadbf36de6244863b’
+    password: '{cipher}88e429a5731d62e8c2516343808cabbed5e0ae5a6817eb851aa2664e68b94fb9e463b7d9f7ba83efadbf36de6244863b'
 spring.h2.console.enabled: true
